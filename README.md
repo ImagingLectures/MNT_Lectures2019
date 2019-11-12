@@ -27,9 +27,9 @@ password: rsna2017
 - More background slides about the challenge: http://bit.ly/deeptexture 
 
 
-<b>Still 2018 material</b>
-## Lecture 2: December 2nd - Image and Filters
 
+## Lecture 2: December 2nd - Image and Filters
+<b>Still 2018 material</b>
 Lecture notes
 1. [Introduction](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture1/00_lecture_introduction.pdf)
 2. [Images](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture1/01_lecture_images.pdf)
@@ -39,7 +39,7 @@ Lecture notes
 * [Assignment 2: Filters](https://github.com/ImagingLectures/filters_anderskaestner)
 
 ## Lecture 3: December 9th - Classification and Morphology
-
+<b>Still 2018 material</b>
 Lecture notes
 1. [Segmentation](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/03_lecture_segmentation.pdf)
 2. [Morphology 1](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology.pdf)
@@ -49,7 +49,7 @@ Lecture notes
 * [Assignment 4: Morphology](https://github.com/ImagingLectures/morphology_anderskaestner)
 
 ## Lecture 3: December 16th - Measurements and analysis strategies
-
+<b>Still 2018 material</b>
 Lecture notes
 1. [Measurements](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture3/05_lecture_analysis.pdf)
 2. [Analysis strategies](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture3/06_lecture_strategies.pdf)
