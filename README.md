@@ -40,7 +40,7 @@ password: rsna2017
 
 ## Lecture 3: December 9th - Classification and Morphology
 <b>Still 2018 material</b>
-###Lecture notes
+### Lecture notes
 1. [Segmentation](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/03_lecture_segmentation.pdf)
 2. [Morphology 1](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology.pdf)
 3. [Morphology 2](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology2.pdf)
@@ -50,7 +50,7 @@ password: rsna2017
 * [Assignment 3: Segmentation](https://github.com/ImagingLectures/segmentation-anderskaestner)
 * [Assignment 4: Morphology](https://github.com/ImagingLectures/morphology_anderskaestner)
 
-## Lecture 3: December 16th - Measurements and analysis strategies
+## Lecture 4: December 16th - Measurements and analysis strategies
 <b>Still 2018 material</b>
 ### Lecture notes
 1. [Measurements](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture3/05_lecture_analysis.pdf)
