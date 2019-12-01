@@ -25,7 +25,7 @@ password: rsna2017
 
 ## Lecture 2: December 2nd - Image and Filters
 
-Lecture notes
+### Lecture notes
 1. [Introduction](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture2/00_lecture_introduction.pdf)
 2. [Images](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture2/01_lecture_images.pdf)
 3. [Filters](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture2/02_lecture_filters.pdf)
@@ -33,6 +33,7 @@ Lecture notes
 ### Demo notebooks
 1. [Limitation of convolution](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture2/LimitationConventionalFilters.ipynb)
 
+### Assignments
 * [Assignment 1: Images and python](https://github.com/ImagingLectures/image-processing-with-python-anderskaestner)
 * [Assignment 2: Filters](https://github.com/ImagingLectures/filters_anderskaestner)
 
