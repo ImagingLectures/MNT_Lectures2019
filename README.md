@@ -32,6 +32,7 @@ password: rsna2017
 
 ### Demo notebooks
 1. [Limitation of convolution](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture2/LimitationConventionalFilters.ipynb)
+2. [Details of the non-local meanse](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture2/NonLocalMeansStudy.ipynb)
 
 ### Assignments
 * [Assignment 1: Images and python](https://github.com/ImagingLectures/image-processing-with-python-anderskaestner)
