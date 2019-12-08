@@ -39,11 +39,10 @@ password: rsna2017
 * [Assignment 2: Filters](https://github.com/ImagingLectures/filters_anderskaestner)
 
 ## Lecture 3: December 9th - Classification and Morphology
-<b>Still 2018 material</b>
 ### Lecture notes
-1. [Segmentation](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/03_lecture_segmentation.pdf)
-2. [Morphology 1](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology.pdf)
-3. [Morphology 2](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture2/04_lecture_morphology2.pdf)
+1. [Segmentation](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture3/03_lecture_segmentation.pdf)
+2. [Morphology 1](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture3/04_lecture_morphology.pdf)
+3. [Morphology 2](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture3/04_lecture_morphology2.pdf)
 ### Demo notebooks
 
 ### Assignments
