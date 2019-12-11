@@ -40,7 +40,7 @@ password: rsna2017
 
 ### Solutions 
 1. [Solutions to assignment 1](https://github.com/ImagingLectures/image-processing-with-python_Solution)
-2. [Solutions to assignment 2](https://github.com/ImagingLectures/filters_anderskaestner)
+2. [Solutions to assignment 2](https://github.com/ImagingLectures/filters_Solution)
 
 ## Lecture 3: December 9th - Classification and Morphology
 ### Lecture notes
@@ -50,12 +50,13 @@ password: rsna2017
 ### Demo notebooks
 
 ### Assignments
-* [Assignment 3: Segmentation](https://github.com/ImagingLectures/segmentation_Solution)
-* [Assignment 4: Morphology](https://github.com/ImagingLectures/morphology_Solution)
+* [Assignment 3: Segmentation](https://github.com/ImagingLectures/segmentation-anderskaestner)
+* [Assignment 4: Morphology](https://github.com/ImagingLectures/morphology_anderskaestner)
 
 ### Solutions 
-1. [Solutions to assignment 3](https://github.com/ImagingLectures/image-processing-with-python_Solution)
-2. [Solutions to assignment 4](https://github.com/ImagingLectures/filters_anderskaestner)
+1. [Solutions to assignment 3](https://github.com/ImagingLectures/segmentation_Solution)
+2. [Solutions to assignment 4](https://github.com/ImagingLectures/morphology_Solution)
+
 
 ## Lecture 4: December 16th - Measurements and analysis strategies
 <b>Still 2018 material</b>
