@@ -59,11 +59,14 @@ password: rsna2017
 
 
 ## Lecture 4: December 16th - Measurements and analysis strategies
-<b>Still 2018 material</b>
 ### Lecture notes
-1. [Measurements](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture3/05_lecture_analysis.pdf)
-2. [Analysis strategies](https://github.com/ImagingLectures/MNT_Lectures/blob/master/Lecture3/06_lecture_strategies.pdf)
+1. [Measurements](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture4/05_lecture_analysis.pdf)
+2. [Analysis strategies](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture4/06_lecture_strategies.pdf)
 ### Demo notebooks
+1. [Distance guided average](https://github.com/ImagingLectures/MNT_Lectures2019/blob/master/Lecture4/DistanceGuidedAverage.ipynb)
 
 ### Assignments
 * [Final assignment: All at once](https://github.com/ImagingLectures/final_assignment)
+
+### Solutions
+* [Solution to final assignment](https://github.com/ImagingLectures/final_assignment_Solution)
